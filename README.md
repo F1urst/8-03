@@ -76,4 +76,4 @@
 
  ## Решение:
  
-![задание 4](https://github.com/F1urst/8-03/blob/main/zadanie%204.jpg)
+![задание 4](https://github.com/F1urst/8-03/blob/main/zadanie%204.1.jpg)
