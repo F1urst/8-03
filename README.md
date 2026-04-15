@@ -60,8 +60,8 @@
 
 
  ## Решение:
-![задание 2](https://github.com/F1urst/8-03/blob/main/zadanie%202.jpg) 
-![задание 3](https://github.com/F1urst/8-03/blob/main/zadanie%203.jpg)
+![решение](https://github.com/F1urst/8-03/blob/main/zadani%203.1.jpg) 
+
 
 
 # Задание 4
