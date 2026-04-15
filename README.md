@@ -60,3 +60,5 @@
 
 
  ## Решение:
+![задание 2](https://github.com/F1urst/8-03/blob/main/zadanie%202.jpg) 
+![задание 3](
